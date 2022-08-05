@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/nanda-react-portfolio/static/css/main.d964554f.css",
+    "main.css": "/nanda-react-portfolio/static/css/main.6a77dad9.css",
     "main.js": "/nanda-react-portfolio/static/js/main.77f37866.js",
     "static/js/787.cd3b8b6d.chunk.js": "/nanda-react-portfolio/static/js/787.cd3b8b6d.chunk.js",
     "static/media/photoAboutmetes.png": "/nanda-react-portfolio/static/media/photoAboutmetes.8d5acb45ba425eb4ae87.png",
@@ -16,12 +16,12 @@
     "static/media/mysql.png": "/nanda-react-portfolio/static/media/mysql.4676ad983d6bd3e9fac9.png",
     "static/media/php.png": "/nanda-react-portfolio/static/media/php.61e6c2f971bd9a00174f.png",
     "index.html": "/nanda-react-portfolio/index.html",
-    "main.d964554f.css.map": "/nanda-react-portfolio/static/css/main.d964554f.css.map",
+    "main.6a77dad9.css.map": "/nanda-react-portfolio/static/css/main.6a77dad9.css.map",
     "main.77f37866.js.map": "/nanda-react-portfolio/static/js/main.77f37866.js.map",
     "787.cd3b8b6d.chunk.js.map": "/nanda-react-portfolio/static/js/787.cd3b8b6d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d964554f.css",
+    "static/css/main.6a77dad9.css",
     "static/js/main.77f37866.js"
   ]
 }
