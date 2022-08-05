@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/nanda-react-portfolio/static/css/main.74a6fb7a.css",
+    "main.js": "/nanda-react-portfolio/static/js/main.8a002699.js",
+    "static/js/787.cd3b8b6d.chunk.js": "/nanda-react-portfolio/static/js/787.cd3b8b6d.chunk.js",
+    "static/media/photoAboutmetes.png": "/nanda-react-portfolio/static/media/photoAboutmetes.8d5acb45ba425eb4ae87.png",
+    "static/media/MITE-LOGO.png": "/nanda-react-portfolio/static/media/MITE-LOGO.dce6a8239179856e0b9f.png",
+    "static/media/header.png": "/nanda-react-portfolio/static/media/header.927bd26b1e29bcad1e4d.png",
+    "static/media/api-300x300.png": "/nanda-react-portfolio/static/media/api-300x300.e4492d014bcd17c74d4a.png",
+    "static/media/helvetica-neu.ttf": "/nanda-react-portfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/react.png": "/nanda-react-portfolio/static/media/react.b19a7ea62269e54657b2.png",
+    "static/media/LaBelleAurore.woff": "/nanda-react-portfolio/static/media/LaBelleAurore.9c5433c64baa43d1d274.woff",
+    "static/media/laravellogo.png": "/nanda-react-portfolio/static/media/laravellogo.cf54d61a39e6a0f5a405.png",
+    "static/media/bootstrap.png": "/nanda-react-portfolio/static/media/bootstrap.5611e8b8182bbfd3a99b.png",
+    "static/media/ITI-logo.png": "/nanda-react-portfolio/static/media/ITI-logo.3c0f64cc5ceb9a4b8b32.png",
+    "static/media/mysql.png": "/nanda-react-portfolio/static/media/mysql.4676ad983d6bd3e9fac9.png",
+    "static/media/php.png": "/nanda-react-portfolio/static/media/php.61e6c2f971bd9a00174f.png",
+    "index.html": "/nanda-react-portfolio/index.html",
+    "main.74a6fb7a.css.map": "/nanda-react-portfolio/static/css/main.74a6fb7a.css.map",
+    "main.8a002699.js.map": "/nanda-react-portfolio/static/js/main.8a002699.js.map",
+    "787.cd3b8b6d.chunk.js.map": "/nanda-react-portfolio/static/js/787.cd3b8b6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74a6fb7a.css",
+    "static/js/main.8a002699.js"
+  ]
+}
